@@ -180,14 +180,6 @@
           "decimals": 18,
           "chainId": 1,
           "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
-        },
-        {
-          "name": "Lendefi",
-          "address": "0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7",
-          "symbol": "LDFI",
-          "decimals": 18,
-          "chainId": 1,
-          "logoURI": "https://github.com/lendefi/brand-assets/raw/main/logo-200px.png"
         }
         
     ]
