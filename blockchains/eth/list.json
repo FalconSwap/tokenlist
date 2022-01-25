@@ -1,13 +1,13 @@
 {
     "name": "FalconSwap Default List",
-    "timestamp": "",
+    "timestamp": "2021-03-23T14:15:22+0000",
     "version": {
-        "major": 1,
+        "major": 0,
         "minor": 4,
-        "patch": 2
+        "patch": 0
     },
     "tags": {},
-    "logoURI": "",
+    "logoURI": "https://falconswap.com/assets/img/logo/logo.png",
     "keywords": [
         "falconswap",
         "default"
